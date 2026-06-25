@@ -1,6 +1,6 @@
 const questions = [
     { question: "2 + 2 = ?", answer: "4" },
-    { question: "Capital of Pakistan?", answer: "Islamabad" }
+    { question: "Capital of islamabad?", answer: "Islamabad" }
 ];
 
 let score = 0;
